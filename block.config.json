@@ -1,0 +1,16 @@
+{
+  "name": "21Nov",
+  "type": "package",
+  "blockId": "Gvo1rSHhAvZWPaYGnSf7P",
+  "source": {
+    "https": "https://github.com/grgshiji/21Nov.git",
+    "ssh": "git@github.com:grgshiji/21Nov.git",
+    "branch": "block_21Nov"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}

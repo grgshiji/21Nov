@@ -1,0 +1,16 @@
+{
+  "name": "21Nov",
+  "type": "package",
+  "blockId": "Gvo1rSHhAvZWPaYGnSf7P",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_21Nov"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
